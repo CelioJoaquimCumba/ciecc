@@ -5,7 +5,7 @@ import Logo from '@/assets/logo.png'
 
 export default function Navbar () {
     return (
-        <nav className="flex justify-between px-16 py-6 bg-white w-full border border-gray-300 items-center">
+        <nav className="flex fixed justify-between px-16 py-6 bg-white w-full border border-gray-300 items-center">
             <div className="flex gap-3 items-center">
                 <img src={Logo} alt="CIEEC logo" className="size-12"/>
                 <p className="text-base">CENTRO INFANTIL & EXTERNATO CANTINHO DO CÉU</p>

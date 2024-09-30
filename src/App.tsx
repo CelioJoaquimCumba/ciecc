@@ -13,7 +13,7 @@ import Footer from './components/molecules/Footer'
 function App() {
 
   return (
-      <div className='w-screen h-dvh bg-white'>
+      <div className='w-screen relative h-dvh bg-white'>
         <Navbar />
         <HeroSection/>
         <QuoteSection />
