@@ -13,7 +13,7 @@ import WhoWeAreSection from './components/organisms/WhoWeAreSection'
 function App() {
 
   return (
-      <div className='w-screen h-dvh'>
+      <div className='w-screen h-dvh bg-white'>
         <Navbar />
         <HeroSection/>
         <QuoteSection />
