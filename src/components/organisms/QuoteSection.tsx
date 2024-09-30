@@ -1,7 +1,7 @@
 export default function QuoteSection () {
     return (
-        <div>
+        <section>
             <p>quote section</p>
-        </div>
+        </section>
     )
 }

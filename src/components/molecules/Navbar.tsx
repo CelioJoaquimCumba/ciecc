@@ -1,3 +1,4 @@
+import { Mail } from "lucide-react";
 import { Button } from "../atoms/button";
 import NavItem from "../atoms/NavItem";
 import Logo from '@/assets/logo.png'
@@ -16,7 +17,8 @@ export default function Navbar () {
                 <NavItem label="Notícias"/>
                 <NavItem label="Contacto"/>
             </ul>
-            <Button className="rounded-none py-6">
+            <Button className="rounded-none">
+                <Mail />
                 Contacte-nos
             </Button>
         </nav>
