@@ -24,13 +24,13 @@ export default function FaqSection () {
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
                                 </AccordionContent>
                             </AccordionItem>
-                            <AccordionItem value="item-1">
+                            <AccordionItem value="item-2">
                                 <AccordionTrigger>Lorem ipsum?</AccordionTrigger>
                                 <AccordionContent>
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
                                 </AccordionContent>
                             </AccordionItem>
-                            <AccordionItem value="item-1">
+                            <AccordionItem value="item-3">
                                 <AccordionTrigger>Lorem ipsum?</AccordionTrigger>
                                 <AccordionContent>
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
@@ -46,13 +46,13 @@ export default function FaqSection () {
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
                                 </AccordionContent>
                             </AccordionItem>
-                            <AccordionItem value="item-1">
+                            <AccordionItem value="item-2">
                                 <AccordionTrigger>Lorem ipsum?</AccordionTrigger>
                                 <AccordionContent>
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
                                 </AccordionContent>
                             </AccordionItem>
-                            <AccordionItem value="item-1">
+                            <AccordionItem value="item-3">
                                 <AccordionTrigger>Lorem ipsum?</AccordionTrigger>
                                 <AccordionContent>
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
@@ -68,13 +68,13 @@ export default function FaqSection () {
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
                                 </AccordionContent>
                             </AccordionItem>
-                            <AccordionItem value="item-1">
+                            <AccordionItem value="item-2">
                                 <AccordionTrigger>Lorem ipsum?</AccordionTrigger>
                                 <AccordionContent>
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
                                 </AccordionContent>
                             </AccordionItem>
-                            <AccordionItem value="item-1">
+                            <AccordionItem value="item-3">
                                 <AccordionTrigger>Lorem ipsum?</AccordionTrigger>
                                 <AccordionContent>
                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus modi quis id, aspernatur libero est quos illo ipsam, molestias ullam tenetur architecto corrupti at sequi veniam, laborum tempore nemo error.
