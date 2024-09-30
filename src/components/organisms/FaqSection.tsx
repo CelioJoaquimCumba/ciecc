@@ -10,7 +10,7 @@ export default function FaqSection () {
                 <p className="text-lg max-w-2xl">
                     Entendemos que podem surgir dúvidas ao escolher a melhor educação para o seu filho. Por isso, reunimos as respostas para as perguntas mais comuns sobre nossos serviços e estrutura. Se não encontrar o que procura, entre em contato conosco. Estamos aqui para ajudar!
                 </p>
-                <Tabs defaultValue="account" className="">
+                <Tabs defaultValue="ensino" className="">
                     <TabsList className="grid w-full grid-cols-3">
                         <TabsTrigger value="ensino">Ensino</TabsTrigger>
                         <TabsTrigger value="transporte">Transporte Escolar</TabsTrigger>
